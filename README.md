@@ -12,6 +12,6 @@
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img align="center" alt="SQL" src=https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white/>
 </div><br/> 
 
-### Apaixonado pelo programação e procurando aperfeiçoar a cada dia encarando obstáculos e desafios em busca de desenvolver um grande sonho na área. 
+### Apaixonado pelo programação e procurando aperfeiçoar-se a cada dia encarando obstáculos e desafios em busca de desenvolver um grande sonho na área. 
 #### “A genialidade é 1% inspiração e 99% transpiração.” – Thomas Edson
  

@@ -27,6 +27,6 @@
 #### _**IDE:**_
 ![vscode](https://camo.githubusercontent.com/2c59e2f87fdd50c00bd3c5b77c5871a5080eec9d96581f19e0cb078c74565073/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
 
-### Apaixonado pela programação e procurando aperfeiçoar-se a cada dia encarando obstáculos e desafios em busca de desenvolver um grande sonho na área. 
-#### “A genialidade é 1% inspiração e 99% transpiração.” – Thomas Edson
+### Passionate about programming and looking to improve himself every day, facing obstacles and challenges in search of developing a big dream in the area. 
+#### “Genius is 1% inspiration and 99% perspiration.” – Thomas Edson
  

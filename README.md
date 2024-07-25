@@ -1,6 +1,4 @@
-### Hello! I am Daniel Silva Student and full-stack developer beginner! 💻
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silva-25b9ab25b/) 
+### Hello! I am Daniel Silva Student and full-stack developer beginner! 💻 
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danielprogram08&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielprogram08)](https://github.com/danielprogram08/github-readme-stats)

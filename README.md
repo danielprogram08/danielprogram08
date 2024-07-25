@@ -1,8 +1,8 @@
 ### Hello! I am Daniel Silva full-stack developer beginner! 🇧🇷💻
  
 
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danielprogram08&show_icons=true&theme=tokyonight)
 ![Top Langs](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
+![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danielprogram08&show_icons=true&theme=tokyonight)
 
 ## Technologys:
 

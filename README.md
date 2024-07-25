@@ -4,7 +4,7 @@
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danielprogram08&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielprogram08)](https://github.com/danielprogram08/github-readme-stats)
 
-## Tecnologias:
+## Technologys:
 
 #### _**Front-end:**_
 ![html5](https://camo.githubusercontent.com/6010a85175edf5787bba645d2bdad7ec26f41aafce3f5a59569352de55deed74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)

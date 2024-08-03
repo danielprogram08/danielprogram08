@@ -1,4 +1,4 @@
-### Hello! I am Daniel Silva full-stack developer beginner! 🇧🇷💻
+### 👋Hello! I am Daniel Silva full-stack developer beginner! 🇧🇷💻
  
 
 ![Top Langs](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)

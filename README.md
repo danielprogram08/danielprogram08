@@ -8,7 +8,7 @@
 ### _**📀 Front-end:**_
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: auto;">
-    <!-- Coloque aqui as imagens das tecnologias de Front-end que deseja -->
+    <img src="./LogoTechnology/front-end.png" width=204 height=40>
 </div>
 
 ### _**💿 Back-end:**_
@@ -20,13 +20,13 @@
 ### _**🗄 Database:**_
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: auto;">
-    <!-- Coloque aqui as imagens das tecnologias de Banco de Dados -->
+    <img src="./LogoTechnology/Database.png" width=164 height=64>
 </div>
 
 ### _**💼 Tools:**_
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: auto;">
-    <!-- Coloque aqui as imagens das ferramentas que você usa -->
+    <img src="./LogoTechnology/Tools.png" width=250 height=47>
 </div>
 
 ### Passionate about programming and looking to improve every day, overcoming obstacles and challenges in pursuit of a big dream in the field. 

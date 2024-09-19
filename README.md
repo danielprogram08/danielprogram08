@@ -31,7 +31,7 @@
 #### _**💼 Tools:**_
 
 <div style="display: flex; align-items: center; margin: auto;">
-    <img id="GIT" src="./LogoTechnology/GIT.png" width="60" height="40" style="margin-right: 0px;">
+    <img id="GIT" src="./LogoTechnology/GIT.png" width="60" height="40">
     <img id="GITHUB" src="./LogoTechnology/GITHUB.png" width="50" height="50" style="margin-right: 12px;">
     <img id="DOCKER" src="./LogoTechnology/DOCKER.png" width="40" height="40">
     <img id="VSCODE" src="./LogoTechnology/VSCODE.png" width="70" height="40">

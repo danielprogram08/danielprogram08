@@ -9,7 +9,7 @@
 <div style="display: flex; align-items: center; margin: auto;">
     <img id="HTML" src="./LogoTechnology/HTML-5.png" width="60" height="50">
     <img id="CSS" src="./LogoTechnology/CSS-3.png" width="60" height="50">
-    <img id="JS" src="./LogoTechnology/JS.png" width="50" height="50" style="padding-right: 15px">
+    <img id="JS" src="./LogoTechnology/JS.png" width="50" height="50" style="padding-right: 20px">
     <img id="BOOTSTRAP" src="./LogoTechnology/BOOTSTRAP.png" width="40" height="40">
 </div>
 

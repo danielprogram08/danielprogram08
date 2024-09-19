@@ -16,7 +16,7 @@
 #### _**💿 Back-end:**_
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: auto;">
-    <img id="NODE" src="./LogoTechnology/NODE.png" width="70" height="50">
+    <img id="NODE" src="./LogoTechnology/NODE.png" width="70" height="40">
     <img id="JAVA" src="./LogoTechnology/JAVA.png" width="70" height="50">
     <img id="C" src="./LogoTechnology/C.png" width="50" height="50">
 </div>

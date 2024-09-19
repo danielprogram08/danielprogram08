@@ -32,7 +32,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin: auto; width: 350px;">
     <img id="GIT" src="./LogoTechnology/GIT.png" width="60" height="40">
-    <img id="GITHUB" src="./LogoTechnology/GITHUB.png" width="50" height="50" style="margin-right: 12px;">
+    <img id="GITHUB" src="./LogoTechnology/GITHUB.png" width="50" height="50" style="margin-top: 5px;">
     <img id="DOCKER" src="./LogoTechnology/DOCKER.png" width="40" height="40">
     <img id="VSCODE" src="./LogoTechnology/VSCODE.png" width="70" height="40">
 </div>

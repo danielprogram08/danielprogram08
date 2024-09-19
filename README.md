@@ -14,7 +14,7 @@
 ### _**💿 Back-end:**_
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: auto;">
-    <img src="./LogoTechnology/Back-end.png" width=356 height=91>
+    <img src="./LogoTechnology/Back-end.png" width=195 height=45>
 </div>
 
 ### _**🗄 Database:**_

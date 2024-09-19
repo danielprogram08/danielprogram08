@@ -6,7 +6,7 @@
 ## ⚡️Technologies:
 
 #### _**📀 Front-end:**_
-<div style="margin: auto; display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin: auto;">
     <img id="HTML" src="./LogoTechnology/HTML-5.png" width="60" height="50">
     <img id="CSS" src="./LogoTechnology/CSS-3.png" width="60" height="50">
     <img id="JS" src="./LogoTechnology/JS.png" width="50" height="50" style="padding-right: 15px">
@@ -15,7 +15,7 @@
 
 #### _**💿 Back-end:**_
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin: auto;">
     <img id="NODE" src="./LogoTechnology/NODE.png" width="70" height="30">
     <img id="JAVA" src="./LogoTechnology/JAVA.png" width="70" height="45">
     <img id="C" src="./LogoTechnology/C.png" width="50" height="40">
@@ -23,14 +23,14 @@
 
 #### _**🗄 Database:**_
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin: auto;">
     <img id="SQL-SERVER" src="./LogoTechnology/SQL-SERVER.png" width="70" height="40">
     <img id="MYSQL" src="./LogoTechnology/MYSQL.png" width="70" height="40">
 </div>
 
 #### _**💼 Tools:**_
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin: auto;">
     <img id="GIT" src="./LogoTechnology/GIT.png" width="60" height="40" style="margin-right: 0px;">
     <img id="GITHUB" src="./LogoTechnology/GITHUB.png" width="50" height="50" style="margin-right: 12px;">
     <img id="DOCKER" src="./LogoTechnology/DOCKER.png" width="40" height="40">

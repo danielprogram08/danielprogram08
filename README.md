@@ -10,14 +10,14 @@
     <img id="HTML" src="./LogoTechnology/HTML-5.png" width="60" height="50">
     <img id="CSS" src="./LogoTechnology/CSS-3.png" width="60" height="50">
     <img id="JS" src="./LogoTechnology/JS.png" width="50" height="50" style="padding-right: 20px">
-    <img id="BOOTSTRAP" src="./LogoTechnology/BOOTSTRAP.png" width="50" height="50">
+    <img id="BOOTSTRAP" src="./LogoTechnology/BOOTSTRAP.png" width="35" height="35">
 </div>
 
 #### _**💿 Back-end:**_
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: auto;">
-    <img id="NODE" src="./LogoTechnology/NODE.png" width="70" height="40">
-    <img id="JAVA" src="./LogoTechnology/JAVA.png" width="70" height="50">
+    <img id="NODE" src="./LogoTechnology/NODE.png" width="70" height="60">
+    <img id="JAVA" src="./LogoTechnology/JAVA.png" width="60" height="60">
     <img id="C" src="./LogoTechnology/C.png" width="50" height="50">
 </div>
 
@@ -25,15 +25,15 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: auto;">
     <img id="SQL-SERVER" src="./LogoTechnology/SQL-SERVER.png" width="70" height="50">
-    <img id="MYSQL" src="./LogoTechnology/MYSQL.png" width="70" height="50">
+    <img id="MYSQL" src="./LogoTechnology/MYSQL.png" width="70" height="70">
 </div>
 
 #### _**💼 Tools:**_
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: auto;">
     <img id="GIT" src="./LogoTechnology/GIT.png" width="60" height="50">
-    <img id="GITHUB" src="./LogoTechnology/GITHUB.png" width="50" height="50">
-    <img id="DOCKER" src="./LogoTechnology/DOCKER.png" width="50" height="50">
+    <img id="GITHUB" src="./LogoTechnology/GITHUB.png" width="60" height="60">
+    <img id="DOCKER" src="./LogoTechnology/DOCKER.png" width="60" height="60">
     <img id="VSCODE" src="./LogoTechnology/VSCODE.png" width="70" height="50">
 </div>
 

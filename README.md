@@ -1,5 +1,5 @@
-<img height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20"> Hello! I'm Daniel Silva, a beginner full-stack developer! 🇧🇷💻
-<div align="center"> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Illustration" width="60%"> </div>
+<img height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20"> <h1>Hello! I'm Daniel Silva, a beginner full-stack developer! 🇧🇷💻</h1>
+<div <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Illustration" width="60%"> </div>
 
 📊 GitHub Stats:
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danielprogram08&show_icons=true&theme=tokyonight" alt="Daniel's GitHub stats"> </div>

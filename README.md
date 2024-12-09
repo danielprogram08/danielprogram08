@@ -13,7 +13,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="JAVA" width="40" style="margin: 0 50px;">
   <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="SPRING-BOOT" width="40" style="margin: 0 50px;">
   <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="POSTGRES" width="40" style="margin: 0 50px;">
-  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MYSQL" width="40" style="margin: 0 50px;">
+<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MYSQL" width="40" style="margin: 0 50px;">
 </p>
 
 ### 💼 Tools:

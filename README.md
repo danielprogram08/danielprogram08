@@ -3,7 +3,7 @@
 ![Top Langs](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)  
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielprogram08&show_icons=true&theme=tokyonight)
 
-## ⚡️ Technologies:
+## ⚡️ Stacks:
 
 <p>
   <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="BOOTSTRAP" width="40" style="margin: 0 50px;">

@@ -19,11 +19,11 @@
 ### 💼 Tools:
 
 <p>
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="GIT" width="40" style="margin: 0 50px;">
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="LINUX" width="40" style="margin: 0 50px;">
   <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="DOCKER" width="40" style="margin: 0 50px;">
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VSCODE" width="40" style="margin: 0 50px;">
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="GIT" width="40" style="margin: 0 70px;">
 </p>
-
+  
 ### Passionate about programming and looking to improve every day, overcoming obstacles and challenges in pursuit of a big dream in the field. 
 #### “Genius is 1% inspiration and 99% perspiration.” – Thomas Edison

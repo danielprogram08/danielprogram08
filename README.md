@@ -1,4 +1,4 @@
-## <img height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20"> Hello! I am Daniel Silva, a full-stack developer! 🇧🇷💻
+## <img height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20"> Hello! I am Daniel Silva, full-stack developer! 🇧🇷💻
 
 ![Top Langs](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)  
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielprogram08&show_icons=true&theme=tokyonight)

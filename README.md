@@ -15,6 +15,8 @@
   <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="POSTGRES" width="40" style="margin: 0 50px;">
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MYSQL" width="40" style="margin: 0 50px;">
   <img src="https://github.com/user-attachments/assets/149dc55e-a941-4d23-9d60-5af0ebdf0c32" alt="SQL" width="40" style="margin: 0 50px;">
+  <img src="https://github.com/user-attachments/assets/5f00ee7d-aaaf-4b04-be0e-af876efed41f" alt="MONGO" width="40" style="margin: 0 50px;">
+
 
 </p>
 
